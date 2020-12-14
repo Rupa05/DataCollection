@@ -22,9 +22,3 @@ It takes in one parameter which is a string that should represent the title of a
 #### 5. def get_movie_rating(movieNameJson):
  It takes an OMDB dictionary result for one movie and extracts the Rotten Tomatoes rating as an integer. If there is no Rotten Tomatoes rating, return 0.
  #### 6. get_sorted_recommendations(listMovieTitle):
- 
- ## Authors/authors:
-Richard Daniel Oliva Denis. danielolivadenis@gmail.com
-
-
-Course material: University of Michigan in Coursera. You can find more information at https://www.coursera.org/learn/data-collection-processing-python/home/welcome
