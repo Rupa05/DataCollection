@@ -1,4 +1,4 @@
-# PythonDataCollectionAndProcessingCourseProject
+# Data Collection And Processing with Python
 Final Project of the Data Collection and Processing with Python. This course is part of the Python 3 Programming Specialization offer by University of Michigan in Coursera. You can find more information at https://www.coursera.org/learn/data-collection-processing-python/home/welcome
 ## About it
 This project will take you through the process of mashing up data from two different APIs to make movie recommendations. The TasteDive API lets you provide a movie (or bands, TV shows, etc.) as a query input, and returns a set of related items. The OMDB API lets you provide a movie title as a query input and get back data about the movie, including scores from various review sites (Rotten Tomatoes, IMDB, etc.).
@@ -22,3 +22,4 @@ It takes in one parameter which is a string that should represent the title of a
 #### 5. def get_movie_rating(movieNameJson):
  It takes an OMDB dictionary result for one movie and extracts the Rotten Tomatoes rating as an integer. If there is no Rotten Tomatoes rating, return 0.
  #### 6. get_sorted_recommendations(listMovieTitle):
+ Gets final sorted recommendations
